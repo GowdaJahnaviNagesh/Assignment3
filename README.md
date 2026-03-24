@@ -1,4 +1,4 @@
-# Authentication System Styling (Assignment 2)
+# Authentication System Styling (Assignment 3)
 
 This project is an enhanced version of the basic authentication system, upgraded using **Bootstrap 5** and **custom CSS** to create a professional, responsive, and visually appealing user interface.
 
